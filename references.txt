@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/how-to-encrypt-and-decrypt-strings-in-python/
+https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1
