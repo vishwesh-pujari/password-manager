@@ -14,3 +14,7 @@ python3 passwordManager.py
 For encrypting passwords, fernet module of the cryptography package has been used.
 
 .env file is used to store the KEY which will be used to encrypt and decrypt passwords
+
+.env file is generally used to store such sensitive information in key-value pair format
+
+python-dotenv package is used to interface such .env files
