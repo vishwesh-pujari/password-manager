@@ -1,5 +1,5 @@
 # password-manager
-Password Manager GUI application created using PyQt5 GUI library and Sqlite in Python3
+Password Manager GUI application created using PyQt5 GUI library and Sqlite Database in Python3
 
 To run the applications first install some dependencies
 1. pip3 install PyQt5
@@ -12,3 +12,5 @@ python3 passwordManager.py
 ### Securing-Passwords
 
 For encrypting passwords, fernet module of the cryptography package has been used.
+
+.env file is used to store the KEY which will be used to encrypt and decrypt passwords
